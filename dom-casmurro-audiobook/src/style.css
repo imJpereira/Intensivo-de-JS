@@ -1,0 +1,66 @@
+body {
+  background-image: linear-gradient(#3a3a3a, #000000);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: #d6d6ea;
+  font-family: 'Times New Roman', Times, serif;
+  overflow: hidden;
+}
+
+.container-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  background-color: inherit;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+}
+
+
+.music-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#track-informations {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem 0 1rem 0;
+  font-size: 1.5rem;
+}
+
+
+#previous, #next {
+  font-size: 3rem;
+  transition: transform 0.3s ease;
+  color: #b1b1b1;
+}
+
+#previous:hover, #next:hover {
+  color: #d6d6ea;
+}
+
+#play-pause {
+  font-size: 4rem;
+  transition: transform 0.3s ease;
+}
+
+.pressed {
+  transform: scale(0.9);
+}
+
+#container-buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
