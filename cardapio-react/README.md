@@ -1,4 +1,4 @@
-# Projeto cardápio utlilzando React
+# Projeto cardápio utlilzando React / Projetct menu using React
 
 Português:
 
