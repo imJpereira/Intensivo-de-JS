@@ -1,4 +1,4 @@
-# Projeto cardápio utlilzando React
+# Projeto cardápio utlilzando React / Projetct menu using React
 
 Português:
 
@@ -12,4 +12,4 @@ English:
 
 This projetct was made with the aim of having an introduction to React. It's a very simple project, but it was very useful to have a base of this technology.
 
-
+OBS: The program is running on the browser using Vite
