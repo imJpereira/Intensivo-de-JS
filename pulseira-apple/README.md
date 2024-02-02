@@ -4,7 +4,7 @@
 
 Esse é um clone da página de venda de pulseiras da apple, peguei o HTML e o CSS pronto e construí o JavaScrip.
 
-[Link](https://apple-band-page.netlify.app)
+Link do projeto [aqui](https://apple-band-page.netlify.app)
 
 ---
 
@@ -12,4 +12,4 @@ Esse é um clone da página de venda de pulseiras da apple, peguei o HTML e o CS
 
 This is a clone of the apple band sales page, I took the HTML and CSS ready and built JavaScrip.
 
-[Link](https://apple-band-page.netlify.app)
+Link of the project [here](https://apple-band-page.netlify.app)
