@@ -13,8 +13,9 @@ import aguaComGasImg from './assets/bebidas/agua-com-gas.jpeg';
 import cocaColaImg from './assets/bebidas/coca-cola.jpeg';
 import guaranaImg from './assets/bebidas/guarana.jpeg';
 import heinekenImg from './assets/bebidas/heineken.jpeg';
+import { ItemCardapio } from './ItemCardapio';
 
-export const enroladinhoMignon = {
+const enroladinhoMignon = {
   nome: 'Enroladinho de Mignon',
   preco: 'R$ 64,90',
   imagem: enroladinhoMignonImg,
