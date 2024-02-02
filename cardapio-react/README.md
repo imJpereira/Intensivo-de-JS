@@ -1,8 +1,15 @@
-# React + Vite
+# Projeto cardápio utlilzando React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Português:
 
-Currently, two official plugins are available:
+Esse projeto foi feito no intuito de ter uma introdução ao React. É um projeto bem simples, mais foi muito útil para ter uma base dessa tecnologia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+OBS: Programa rodando no navegator utilizando Vite
+
+---
+
+English: 
+
+This projetct was made with the aim of having an introduction to React. It's a very simple project, but it was very useful to have a base of this technology.
+
+
